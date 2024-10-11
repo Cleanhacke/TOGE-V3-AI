@@ -2,8 +2,8 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "24105114159"],
-global.ownername = process.env.OWNER_NAME || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
+global.ownernumber = [ process.env.OWNER_NUMBER || "50946140656"],
+global.ownername = process.env.OWNER_NAME || "𓆩clean𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
 global.ytname = "YT: kenzo3146"
 global.socialm = "GitHub: toge012345"
 global.location = "Africa"
